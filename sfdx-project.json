@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app/main/default",
+      "default": true
+    }
+  ],
+  "name": "sf-compare-lists",
+  "namespace": "three_levers",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "65.0"
+}
