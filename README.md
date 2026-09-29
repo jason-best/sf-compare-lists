@@ -2,6 +2,8 @@
 
 Compare Lists for Salesforce. A Flow action that compares two text lists and returns what they share and what each list has alone. Each list can be a text value, a text collection, or both.
 
+Product page: [threelevers.com/projects/compare-lists](https://threelevers.com/projects/compare-lists)
+
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 [![Salesforce API](https://img.shields.io/badge/Salesforce_API-65.0-00A1E0)](https://developer.salesforce.com)
 
