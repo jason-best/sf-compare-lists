@@ -59,17 +59,6 @@ After install, the Flow action is **Compare Lists** (`three_levers.CompareLists`
 
 ---
 
-## Development
-
-```bash
-sf org create scratch --definition-file config/project-scratch-def.json --alias compare-lists-scratch --set-default
-sf project deploy start --manifest manifest/package.xml --target-org compare-lists-scratch --test-level RunLocalTests
-```
-
-Packaging and 2GP releases are maintained in the private [ThreeLeversDevOrg](https://github.com/jason-best/ThreeLeversDevOrg) monorepo. Source and docs: [jason-best/sf-compare-lists](https://github.com/jason-best/sf-compare-lists). See [docs/PACKAGING.md](docs/PACKAGING.md).
-
----
-
 ## License
 
 [BSD 3-Clause](LICENSE) · Copyright Three Levers
